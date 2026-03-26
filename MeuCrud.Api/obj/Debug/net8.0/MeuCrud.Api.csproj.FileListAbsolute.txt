@@ -102,3 +102,4 @@ C:\Users\Pierri\Desktop\ProjetosWeb\MeuCrud.Api\bin\Debug\net8.0\zh-Hans\Microso
 C:\Users\Pierri\Desktop\ProjetosWeb\MeuCrud.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Pierri\Desktop\ProjetosWeb\MeuCrud.Api\obj\Debug\net8.0\MeuCrud.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Pierri\Desktop\ProjetosWeb\MeuCrud.Api\obj\Debug\net8.0\MeuCrud..9C0937D6.Up2Date
+C:\Users\Pierri\Desktop\ProjetosWeb\MeuCrud.Api\obj\Debug\net8.0\MeuCrud.Api.sourcelink.json
